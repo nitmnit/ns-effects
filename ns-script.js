@@ -1,2 +1,3 @@
 $.fn.nsScript{
+    change
 }
